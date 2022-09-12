@@ -66,34 +66,6 @@
   </entry>
   
   <entry>
-    <title>ABI5</title>
-    <link href="https://ssblog.fantast.top/2022/02/11/107e813f08f0/"/>
-    <id>https://ssblog.fantast.top/2022/02/11/107e813f08f0/</id>
-    <published>2022-02-11T13:52:19.000Z</published>
-    <updated>2022-03-18T08:54:54.240Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="abi5">ABI5</h2><h3 id="abi5-1">ABI5</h3><ul><li>ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多</li><li>拟南芥中与ABI5高度同源的bZIP类转录因子有9个，统称为ABI5亚家族，氨基酸序列高度保守<ul><li>ABI5/AtDPBF1、AtDPBF2（DC3 Promotor BindingFactors）、AtDPBF3/AREB3、AtDPBF4/EEL、ABF1、ABF2/AREB1、ABF3/AtDPBF5、ABF4/AREB2（AREBBinding Factors）和At5G42910<ul><li>进一步可被分类<imgsrc="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2016.54.26.png"alt="ABI5及亚家族分类" /></li></ul></li><li>除ABI5外，其余7个基因在幼苗生长的不同阶段的相对表达量均逐渐走高<ul><li>种子刚萌发时除ABF1和ABF2以外的7歌基因均大量表达；成熟种子中9个基因均大量表达<ul><li>种子在打破休眠开始生长前，种子为维持休眠而大量表达，刚萌发时这种调控表达未完全解除</li><li>ABF1和ABF2可能在调控种子萌发方面起重要作用</li></ul></li></ul></li><li><img src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03 10.58.16.png" alt="拟南芥幼苗中ABI5亚家族的相对表达量" style="zoom:50%;" /></li><li>果荚中AtDPBF2表达量最高，上升了约12倍；ABF2、ABI5和At5G42910均增加约5倍<ul><li><imgsrc="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2011.00.10.png"title="fig:" alt="ABI5在不同组织中表达" /></li></ul></li><li>生殖生长阶段，ABFs侧重在叶中表达，AtDPBFs侧重在种子和花中表达，且在种子中9个基因均大量表达</li><li>ABI5亚家族中，4个ABFs基因均受ABA诱导表达，4个AtDPBFs基因中仅ABI5/AtDPBF1受ABA的显著诱导<ul><li>ABFs是以结合ABA的顺式元件为诱饵所克隆；AtDPBFs是以体细胞中特异表达的顺式元件为诱饵所克隆</li><li>ABF2和ABF4的表达强度在无处理的拟南芥幼苗中远高于ABF1和ABI5，它们在ABA诱导时增加幅度不大，因为在ABA处理前的幼苗中含量已经相当高</li></ul></li><li>低温诱导ABF1和ABI5的显著表达</li><li>At5G42910在幼苗中难检测表达信号，但在花和果荚中大量表达，该基因可能在种子形成及成熟过程中起重要作用</li></ul></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;abi5&quot;&gt;ABI5&lt;/h2&gt;
-&lt;h3 id=&quot;abi5-1&quot;&gt;ABI5&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多&lt;/li&gt;
-&lt;li&gt;拟南芥中与ABI5高度同源的</summary>
-      
-    
-    
-    
-    <category term="ABI" scheme="https://ssblog.fantast.top/categories/ABI/"/>
-    
-    
-    <category term="ABI5 bZIP - 示例" scheme="https://ssblog.fantast.top/tags/ABI5-bZIP-%E7%A4%BA%E4%BE%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>中英对照</title>
     <link href="https://ssblog.fantast.top/2022/02/11/bdfc617af0cd/"/>
     <id>https://ssblog.fantast.top/2022/02/11/bdfc617af0cd/</id>
@@ -111,34 +83,6 @@
     
     
     <category term="示例" scheme="https://ssblog.fantast.top/tags/%E7%A4%BA%E4%BE%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>引物设计</title>
-    <link href="https://ssblog.fantast.top/2022/02/11/ce50daf02dac/"/>
-    <id>https://ssblog.fantast.top/2022/02/11/ce50daf02dac/</id>
-    <published>2022-02-11T13:52:19.000Z</published>
-    <updated>2022-04-02T04:53:08.605Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="引物设计的原则">引物设计的原则</h3><ul><li>引物的长度一般为15-30bp，常用为18-27bp</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;引物设计的原则&quot;&gt;引物设计的原则&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;引物的长度一般为15-30bp，常用为18-27bp&lt;/li&gt;
-&lt;/ul&gt;
-</summary>
-      
-    
-    
-    
-    <category term="基本" scheme="https://ssblog.fantast.top/categories/%E5%9F%BA%E6%9C%AC/"/>
-    
-    
-    <category term="引物设计 - 示例" scheme="https://ssblog.fantast.top/tags/%E5%BC%95%E7%89%A9%E8%AE%BE%E8%AE%A1-%E7%A4%BA%E4%BE%8B/"/>
     
   </entry>
   
@@ -171,6 +115,34 @@
   </entry>
   
   <entry>
+    <title>ABI5</title>
+    <link href="https://ssblog.fantast.top/2022/02/11/107e813f08f0/"/>
+    <id>https://ssblog.fantast.top/2022/02/11/107e813f08f0/</id>
+    <published>2022-02-11T13:52:19.000Z</published>
+    <updated>2022-03-18T08:54:54.240Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="abi5">ABI5</h2><h3 id="abi5-1">ABI5</h3><ul><li>ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多</li><li>拟南芥中与ABI5高度同源的bZIP类转录因子有9个，统称为ABI5亚家族，氨基酸序列高度保守<ul><li>ABI5/AtDPBF1、AtDPBF2（DC3 Promotor BindingFactors）、AtDPBF3/AREB3、AtDPBF4/EEL、ABF1、ABF2/AREB1、ABF3/AtDPBF5、ABF4/AREB2（AREBBinding Factors）和At5G42910<ul><li>进一步可被分类<imgsrc="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2016.54.26.png"alt="ABI5及亚家族分类" /></li></ul></li><li>除ABI5外，其余7个基因在幼苗生长的不同阶段的相对表达量均逐渐走高<ul><li>种子刚萌发时除ABF1和ABF2以外的7歌基因均大量表达；成熟种子中9个基因均大量表达<ul><li>种子在打破休眠开始生长前，种子为维持休眠而大量表达，刚萌发时这种调控表达未完全解除</li><li>ABF1和ABF2可能在调控种子萌发方面起重要作用</li></ul></li></ul></li><li><img src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03 10.58.16.png" alt="拟南芥幼苗中ABI5亚家族的相对表达量" style="zoom:50%;" /></li><li>果荚中AtDPBF2表达量最高，上升了约12倍；ABF2、ABI5和At5G42910均增加约5倍<ul><li><imgsrc="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2011.00.10.png"title="fig:" alt="ABI5在不同组织中表达" /></li></ul></li><li>生殖生长阶段，ABFs侧重在叶中表达，AtDPBFs侧重在种子和花中表达，且在种子中9个基因均大量表达</li><li>ABI5亚家族中，4个ABFs基因均受ABA诱导表达，4个AtDPBFs基因中仅ABI5/AtDPBF1受ABA的显著诱导<ul><li>ABFs是以结合ABA的顺式元件为诱饵所克隆；AtDPBFs是以体细胞中特异表达的顺式元件为诱饵所克隆</li><li>ABF2和ABF4的表达强度在无处理的拟南芥幼苗中远高于ABF1和ABI5，它们在ABA诱导时增加幅度不大，因为在ABA处理前的幼苗中含量已经相当高</li></ul></li><li>低温诱导ABF1和ABI5的显著表达</li><li>At5G42910在幼苗中难检测表达信号，但在花和果荚中大量表达，该基因可能在种子形成及成熟过程中起重要作用</li></ul></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;abi5&quot;&gt;ABI5&lt;/h2&gt;
+&lt;h3 id=&quot;abi5-1&quot;&gt;ABI5&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多&lt;/li&gt;
+&lt;li&gt;拟南芥中与ABI5高度同源的</summary>
+      
+    
+    
+    
+    <category term="ABI" scheme="https://ssblog.fantast.top/categories/ABI/"/>
+    
+    
+    <category term="ABI5 bZIP - 示例" scheme="https://ssblog.fantast.top/tags/ABI5-bZIP-%E7%A4%BA%E4%BE%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Cell wall modifications during fruit ripening： when a fruit is not the fruit.</title>
     <link href="https://ssblog.fantast.top/2022/02/11/403f7c9d5760/"/>
     <id>https://ssblog.fantast.top/2022/02/11/403f7c9d5760/</id>
@@ -195,6 +167,34 @@ id=&quot;引言水果成熟和相关结构修饰的意义&quot;&gt;引言：水�
     
     
     <category term="细胞壁 降解 代谢 - 示例" scheme="https://ssblog.fantast.top/tags/%E7%BB%86%E8%83%9E%E5%A3%81-%E9%99%8D%E8%A7%A3-%E4%BB%A3%E8%B0%A2-%E7%A4%BA%E4%BE%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>引物设计</title>
+    <link href="https://ssblog.fantast.top/2022/02/11/ce50daf02dac/"/>
+    <id>https://ssblog.fantast.top/2022/02/11/ce50daf02dac/</id>
+    <published>2022-02-11T13:52:19.000Z</published>
+    <updated>2022-04-02T04:53:08.605Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="引物设计的原则">引物设计的原则</h3><ul><li>引物的长度一般为15-30bp，常用为18-27bp</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;引物设计的原则&quot;&gt;引物设计的原则&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;引物的长度一般为15-30bp，常用为18-27bp&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      
+    
+    
+    
+    <category term="基本" scheme="https://ssblog.fantast.top/categories/%E5%9F%BA%E6%9C%AC/"/>
+    
+    
+    <category term="引物设计 - 示例" scheme="https://ssblog.fantast.top/tags/%E5%BC%95%E7%89%A9%E8%AE%BE%E8%AE%A1-%E7%A4%BA%E4%BE%8B/"/>
     
   </entry>
   

@@ -317,56 +317,6 @@ alt="FaABI干扰对果实影响" />
       </tags>
   </entry>
   <entry>
-    <title>ABI5</title>
-    <url>/2022/02/11/107e813f08f0/</url>
-    <content><![CDATA[<h2 id="abi5">ABI5</h2>
-<h3 id="abi5-1">ABI5</h3>
-<ul>
-<li>ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多</li>
-<li>拟南芥中与ABI5高度同源的bZIP类转录因子有9个，统称为ABI5亚家族，氨基酸序列高度保守
-<ul>
-<li>ABI5/AtDPBF1、AtDPBF2（DC3 Promotor Binding
-Factors）、AtDPBF3/AREB3、AtDPBF4/EEL、ABF1、ABF2/AREB1、ABF3/AtDPBF5、ABF4/AREB2（AREB
-Binding Factors）和At5G42910
-<ul>
-<li>进一步可被分类<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2016.54.26.png"
-alt="ABI5及亚家族分类" /></li>
-</ul></li>
-<li>除ABI5外，其余7个基因在幼苗生长的不同阶段的相对表达量均逐渐走高
-<ul>
-<li>种子刚萌发时除ABF1和ABF2以外的7歌基因均大量表达；成熟种子中9个基因均大量表达
-<ul>
-<li>种子在打破休眠开始生长前，种子为维持休眠而大量表达，刚萌发时这种调控表达未完全解除</li>
-<li>ABF1和ABF2可能在调控种子萌发方面起重要作用</li>
-</ul></li>
-</ul></li>
-<li><img src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03 10.58.16.png" alt="拟南芥幼苗中ABI5亚家族的相对表达量" style="zoom:50%;" /></li>
-<li>果荚中AtDPBF2表达量最高，上升了约12倍；ABF2、ABI5和At5G42910均增加约5倍
-<ul>
-<li><img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2011.00.10.png"
-title="fig:" alt="ABI5在不同组织中表达" /></li>
-</ul></li>
-<li>生殖生长阶段，ABFs侧重在叶中表达，AtDPBFs侧重在种子和花中表达，且在种子中9个基因均大量表达</li>
-<li>ABI5亚家族中，4个ABFs基因均受ABA诱导表达，4个AtDPBFs基因中仅ABI5/AtDPBF1受ABA的显著诱导
-<ul>
-<li>ABFs是以结合ABA的顺式元件为诱饵所克隆；AtDPBFs是以体细胞中特异表达的顺式元件为诱饵所克隆</li>
-<li>ABF2和ABF4的表达强度在无处理的拟南芥幼苗中远高于ABF1和ABI5，它们在ABA诱导时增加幅度不大，因为在ABA处理前的幼苗中含量已经相当高</li>
-</ul></li>
-<li>低温诱导ABF1和ABI5的显著表达</li>
-<li>At5G42910在幼苗中难检测表达信号，但在花和果荚中大量表达，该基因可能在种子形成及成熟过程中起重要作用</li>
-</ul></li>
-</ul>
-]]></content>
-      <categories>
-        <category>ABI</category>
-      </categories>
-      <tags>
-        <tag>ABI5 bZIP - 示例</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>中英对照</title>
     <url>/2022/02/11/bdfc617af0cd/</url>
     <content><![CDATA[<h3
@@ -995,21 +945,6 @@ endotransglycoslase/hydrolase</td>
       </tags>
   </entry>
   <entry>
-    <title>引物设计</title>
-    <url>/2022/02/11/ce50daf02dac/</url>
-    <content><![CDATA[<h3 id="引物设计的原则">引物设计的原则</h3>
-<ul>
-<li>引物的长度一般为15-30bp，常用为18-27bp</li>
-</ul>
-]]></content>
-      <categories>
-        <category>基本</category>
-      </categories>
-      <tags>
-        <tag>引物设计 - 示例</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>响应ABA的转录因子ABI能不能激活 细胞壁结构基因的启动子</title>
     <url>/2022/02/11/d05924413515/</url>
     <content><![CDATA[<h4 id="文献里看到的">文献里看到的</h4>
@@ -1035,6 +970,56 @@ RD29B以及信号转导相关基因ABF1、ABF4和ABI5均不同程度的低于野
       </categories>
       <tags>
         <tag>ABA 代谢 ABI 细胞壁 - 示例</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ABI5</title>
+    <url>/2022/02/11/107e813f08f0/</url>
+    <content><![CDATA[<h2 id="abi5">ABI5</h2>
+<h3 id="abi5-1">ABI5</h3>
+<ul>
+<li>ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多</li>
+<li>拟南芥中与ABI5高度同源的bZIP类转录因子有9个，统称为ABI5亚家族，氨基酸序列高度保守
+<ul>
+<li>ABI5/AtDPBF1、AtDPBF2（DC3 Promotor Binding
+Factors）、AtDPBF3/AREB3、AtDPBF4/EEL、ABF1、ABF2/AREB1、ABF3/AtDPBF5、ABF4/AREB2（AREB
+Binding Factors）和At5G42910
+<ul>
+<li>进一步可被分类<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2016.54.26.png"
+alt="ABI5及亚家族分类" /></li>
+</ul></li>
+<li>除ABI5外，其余7个基因在幼苗生长的不同阶段的相对表达量均逐渐走高
+<ul>
+<li>种子刚萌发时除ABF1和ABF2以外的7歌基因均大量表达；成熟种子中9个基因均大量表达
+<ul>
+<li>种子在打破休眠开始生长前，种子为维持休眠而大量表达，刚萌发时这种调控表达未完全解除</li>
+<li>ABF1和ABF2可能在调控种子萌发方面起重要作用</li>
+</ul></li>
+</ul></li>
+<li><img src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03 10.58.16.png" alt="拟南芥幼苗中ABI5亚家族的相对表达量" style="zoom:50%;" /></li>
+<li>果荚中AtDPBF2表达量最高，上升了约12倍；ABF2、ABI5和At5G42910均增加约5倍
+<ul>
+<li><img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2011.00.10.png"
+title="fig:" alt="ABI5在不同组织中表达" /></li>
+</ul></li>
+<li>生殖生长阶段，ABFs侧重在叶中表达，AtDPBFs侧重在种子和花中表达，且在种子中9个基因均大量表达</li>
+<li>ABI5亚家族中，4个ABFs基因均受ABA诱导表达，4个AtDPBFs基因中仅ABI5/AtDPBF1受ABA的显著诱导
+<ul>
+<li>ABFs是以结合ABA的顺式元件为诱饵所克隆；AtDPBFs是以体细胞中特异表达的顺式元件为诱饵所克隆</li>
+<li>ABF2和ABF4的表达强度在无处理的拟南芥幼苗中远高于ABF1和ABI5，它们在ABA诱导时增加幅度不大，因为在ABA处理前的幼苗中含量已经相当高</li>
+</ul></li>
+<li>低温诱导ABF1和ABI5的显著表达</li>
+<li>At5G42910在幼苗中难检测表达信号，但在花和果荚中大量表达，该基因可能在种子形成及成熟过程中起重要作用</li>
+</ul></li>
+</ul>
+]]></content>
+      <categories>
+        <category>ABI</category>
+      </categories>
+      <tags>
+        <tag>ABI5 bZIP - 示例</tag>
       </tags>
   </entry>
   <entry>
@@ -1240,6 +1225,21 @@ id="成熟过程中细胞壁修饰的非酶控制">成熟过程中细胞壁修�
       </categories>
       <tags>
         <tag>细胞壁 降解 代谢 - 示例</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>引物设计</title>
+    <url>/2022/02/11/ce50daf02dac/</url>
+    <content><![CDATA[<h3 id="引物设计的原则">引物设计的原则</h3>
+<ul>
+<li>引物的长度一般为15-30bp，常用为18-27bp</li>
+</ul>
+]]></content>
+      <categories>
+        <category>基本</category>
+      </categories>
+      <tags>
+        <tag>引物设计 - 示例</tag>
       </tags>
   </entry>
   <entry>
