@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ABI5</title>
+    <url>/2022/02/11/107e813f08f0/</url>
+    <content><![CDATA[<h2 id="abi5">ABI5</h2>
+<h3 id="abi5-1">ABI5</h3>
+<ul>
+<li>ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多</li>
+<li>拟南芥中与ABI5高度同源的bZIP类转录因子有9个，统称为ABI5亚家族，氨基酸序列高度保守
+<ul>
+<li>ABI5/AtDPBF1、AtDPBF2（DC3 Promotor Binding
+Factors）、AtDPBF3/AREB3、AtDPBF4/EEL、ABF1、ABF2/AREB1、ABF3/AtDPBF5、ABF4/AREB2（AREB
+Binding Factors）和At5G42910
+<ul>
+<li>进一步可被分类<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2016.54.26.png"
+alt="ABI5及亚家族分类" /></li>
+</ul></li>
+<li>除ABI5外，其余7个基因在幼苗生长的不同阶段的相对表达量均逐渐走高
+<ul>
+<li>种子刚萌发时除ABF1和ABF2以外的7歌基因均大量表达；成熟种子中9个基因均大量表达
+<ul>
+<li>种子在打破休眠开始生长前，种子为维持休眠而大量表达，刚萌发时这种调控表达未完全解除</li>
+<li>ABF1和ABF2可能在调控种子萌发方面起重要作用</li>
+</ul></li>
+</ul></li>
+<li><img src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03 10.58.16.png" alt="拟南芥幼苗中ABI5亚家族的相对表达量" style="zoom:50%;" /></li>
+<li>果荚中AtDPBF2表达量最高，上升了约12倍；ABF2、ABI5和At5G42910均增加约5倍
+<ul>
+<li><img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2011.00.10.png"
+title="fig:" alt="ABI5在不同组织中表达" /></li>
+</ul></li>
+<li>生殖生长阶段，ABFs侧重在叶中表达，AtDPBFs侧重在种子和花中表达，且在种子中9个基因均大量表达</li>
+<li>ABI5亚家族中，4个ABFs基因均受ABA诱导表达，4个AtDPBFs基因中仅ABI5/AtDPBF1受ABA的显著诱导
+<ul>
+<li>ABFs是以结合ABA的顺式元件为诱饵所克隆；AtDPBFs是以体细胞中特异表达的顺式元件为诱饵所克隆</li>
+<li>ABF2和ABF4的表达强度在无处理的拟南芥幼苗中远高于ABF1和ABI5，它们在ABA诱导时增加幅度不大，因为在ABA处理前的幼苗中含量已经相当高</li>
+</ul></li>
+<li>低温诱导ABF1和ABI5的显著表达</li>
+<li>At5G42910在幼苗中难检测表达信号，但在花和果荚中大量表达，该基因可能在种子形成及成熟过程中起重要作用</li>
+</ul></li>
+</ul>
+]]></content>
+      <categories>
+        <category>ABI</category>
+      </categories>
+      <tags>
+        <tag>ABI5 bZIP - 示例</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>ABA代谢通路</title>
     <url>/2022/02/11/3fa11e9e8f4d/</url>
     <content><![CDATA[<h3 id="section"></h3>
@@ -314,6 +364,34 @@ alt="FaABI干扰对果实影响" />
       </categories>
       <tags>
         <tag>ABI4 AP2/ERF - 示例</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>响应ABA的转录因子ABI能不能激活 细胞壁结构基因的启动子</title>
+    <url>/2022/02/11/d05924413515/</url>
+    <content><![CDATA[<h4 id="文献里看到的">文献里看到的</h4>
+<ul>
+<li>柿子中的DkGAL1基因启动子的活性可被乙烯和ABA显著激活
+<ul>
+<li>番茄中过量表达DkGAL1可缩短其果实发育及成熟时间，使果实转色加快，且果实细胞壁中半乳糖残基含量较野生型低，果肉中游离半乳糖含量较野生型高</li>
+<li>采后贮藏过程中，DkGAL1转基因番茄果实的转色速度快、硬度低、乙烯释放量高，乙烯合成关键基因和细胞壁降解相关基因表达量较高，表明DkGAL1可通过促进细胞壁半乳聚糖降解、提高乙烯合成和加速果肉细胞分离促进果实成熟</li>
+<li>**纤维素与果实软化关系较弱，引起果实软化的主要是细胞壁内果胶及半纤维素结构的改变</li>
+<li>DKGAL1启动子活性在ABA处理下升高<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2009.31.54.png"
+alt="ABA提高DKGAL1启动子活性" /></li>
+<li>在果实中，乙烯及ABA处理可以引起果实体内一系列成熟有关的信号转导，二者可以间接诱导DkGAL1启动子活性并促进DkGAL1基因表达的升高。番茄果实研究表明，ABA可以促进乙烯合成关键基因的表达，诱导乙烯合成，从而促进果实成熟</li>
+<li>DkGAL1启动子可明显响应ABA，说明DkGAL1基因可响应成熟有关的信号从而在果实成熟中发挥作用</li>
+<li>与转基因幼苗对ABA肋迫有抗性的结果相似，黑暗诱导下转基因植株ABA合成关键基因NCED3、ABA响应基因SAG29和
+RD29B以及信号转导相关基因ABF1、ABF4和ABI5均不同程度的低于野生型植株，表明细胞壁结构的变化参与影响ABA信号传递</li>
+<li>DkGAL1和DkGAL2在果实中表达丰度较高，其中DkGAL1表达与果实成熟软化密切相关，表明DkGAL1是参与柿果实软化B-半乳糖苷酶基因；DkGAL2在叶片及发育期果实中表达较高，可能是B-半乳糖苷酶参与组织生长发育的重要基因</li>
+</ul></li>
+</ul>
+]]></content>
+      <categories>
+        <category>ABA有关代谢通路论文阅读</category>
+      </categories>
+      <tags>
+        <tag>ABA 代谢 ABI 细胞壁 - 示例</tag>
       </tags>
   </entry>
   <entry>
@@ -945,81 +1023,86 @@ endotransglycoslase/hydrolase</td>
       </tags>
   </entry>
   <entry>
-    <title>响应ABA的转录因子ABI能不能激活 细胞壁结构基因的启动子</title>
-    <url>/2022/02/11/d05924413515/</url>
-    <content><![CDATA[<h4 id="文献里看到的">文献里看到的</h4>
+    <title>引物设计</title>
+    <url>/2022/02/11/ce50daf02dac/</url>
+    <content><![CDATA[<h3 id="引物设计的原则">引物设计的原则</h3>
 <ul>
-<li>柿子中的DkGAL1基因启动子的活性可被乙烯和ABA显著激活
-<ul>
-<li>番茄中过量表达DkGAL1可缩短其果实发育及成熟时间，使果实转色加快，且果实细胞壁中半乳糖残基含量较野生型低，果肉中游离半乳糖含量较野生型高</li>
-<li>采后贮藏过程中，DkGAL1转基因番茄果实的转色速度快、硬度低、乙烯释放量高，乙烯合成关键基因和细胞壁降解相关基因表达量较高，表明DkGAL1可通过促进细胞壁半乳聚糖降解、提高乙烯合成和加速果肉细胞分离促进果实成熟</li>
-<li>**纤维素与果实软化关系较弱，引起果实软化的主要是细胞壁内果胶及半纤维素结构的改变</li>
-<li>DKGAL1启动子活性在ABA处理下升高<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2009.31.54.png"
-alt="ABA提高DKGAL1启动子活性" /></li>
-<li>在果实中，乙烯及ABA处理可以引起果实体内一系列成熟有关的信号转导，二者可以间接诱导DkGAL1启动子活性并促进DkGAL1基因表达的升高。番茄果实研究表明，ABA可以促进乙烯合成关键基因的表达，诱导乙烯合成，从而促进果实成熟</li>
-<li>DkGAL1启动子可明显响应ABA，说明DkGAL1基因可响应成熟有关的信号从而在果实成熟中发挥作用</li>
-<li>与转基因幼苗对ABA肋迫有抗性的结果相似，黑暗诱导下转基因植株ABA合成关键基因NCED3、ABA响应基因SAG29和
-RD29B以及信号转导相关基因ABF1、ABF4和ABI5均不同程度的低于野生型植株，表明细胞壁结构的变化参与影响ABA信号传递</li>
-<li>DkGAL1和DkGAL2在果实中表达丰度较高，其中DkGAL1表达与果实成熟软化密切相关，表明DkGAL1是参与柿果实软化B-半乳糖苷酶基因；DkGAL2在叶片及发育期果实中表达较高，可能是B-半乳糖苷酶参与组织生长发育的重要基因</li>
-</ul></li>
+<li>引物的长度一般为15-30bp，常用为18-27bp</li>
 </ul>
 ]]></content>
       <categories>
-        <category>ABA有关代谢通路论文阅读</category>
+        <category>基本</category>
       </categories>
       <tags>
-        <tag>ABA 代谢 ABI 细胞壁 - 示例</tag>
+        <tag>引物设计 - 示例</tag>
       </tags>
   </entry>
   <entry>
-    <title>ABI5</title>
-    <url>/2022/02/11/107e813f08f0/</url>
-    <content><![CDATA[<h2 id="abi5">ABI5</h2>
-<h3 id="abi5-1">ABI5</h3>
-<ul>
-<li>ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多</li>
-<li>拟南芥中与ABI5高度同源的bZIP类转录因子有9个，统称为ABI5亚家族，氨基酸序列高度保守
-<ul>
-<li>ABI5/AtDPBF1、AtDPBF2（DC3 Promotor Binding
-Factors）、AtDPBF3/AREB3、AtDPBF4/EEL、ABF1、ABF2/AREB1、ABF3/AtDPBF5、ABF4/AREB2（AREB
-Binding Factors）和At5G42910
-<ul>
-<li>进一步可被分类<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2016.54.26.png"
-alt="ABI5及亚家族分类" /></li>
-</ul></li>
-<li>除ABI5外，其余7个基因在幼苗生长的不同阶段的相对表达量均逐渐走高
-<ul>
-<li>种子刚萌发时除ABF1和ABF2以外的7歌基因均大量表达；成熟种子中9个基因均大量表达
-<ul>
-<li>种子在打破休眠开始生长前，种子为维持休眠而大量表达，刚萌发时这种调控表达未完全解除</li>
-<li>ABF1和ABF2可能在调控种子萌发方面起重要作用</li>
-</ul></li>
-</ul></li>
-<li><img src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03 10.58.16.png" alt="拟南芥幼苗中ABI5亚家族的相对表达量" style="zoom:50%;" /></li>
-<li>果荚中AtDPBF2表达量最高，上升了约12倍；ABF2、ABI5和At5G42910均增加约5倍
-<ul>
-<li><img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2011.00.10.png"
-title="fig:" alt="ABI5在不同组织中表达" /></li>
-</ul></li>
-<li>生殖生长阶段，ABFs侧重在叶中表达，AtDPBFs侧重在种子和花中表达，且在种子中9个基因均大量表达</li>
-<li>ABI5亚家族中，4个ABFs基因均受ABA诱导表达，4个AtDPBFs基因中仅ABI5/AtDPBF1受ABA的显著诱导
-<ul>
-<li>ABFs是以结合ABA的顺式元件为诱饵所克隆；AtDPBFs是以体细胞中特异表达的顺式元件为诱饵所克隆</li>
-<li>ABF2和ABF4的表达强度在无处理的拟南芥幼苗中远高于ABF1和ABI5，它们在ABA诱导时增加幅度不大，因为在ABA处理前的幼苗中含量已经相当高</li>
-</ul></li>
-<li>低温诱导ABF1和ABI5的显著表达</li>
-<li>At5G42910在幼苗中难检测表达信号，但在花和果荚中大量表达，该基因可能在种子形成及成熟过程中起重要作用</li>
-</ul></li>
-</ul>
+    <title>枇杷处理</title>
+    <url>/2022/02/11/e1dac0554fd4/</url>
+    <content><![CDATA[<p>NDGA/ABAI 去甲二氢化愈创木酸</p>
+<h3 id="树莓果实">树莓果实</h3>
+<p>果实浸泡</p>
+<p>蒸馏水、1 mM ABA、2 mM
+NDGA（先溶于少量DMSO中，之后缓慢加入适量的蒸馏水）水溶液浸果10
+min（之后有1-MCP处理，不知道会不会影响），蒸馏水对照，室温放置，处理 0
+d、0.5 d、1 d、1.5 d、2 d、2.5 d观察，测定果实硬度（ABA）</p>
+<figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-05-09%2009.21.09.png"
+alt="树莓ABA和NDGA处理" />
+<figcaption aria-hidden="true">树莓ABA和NDGA处理</figcaption>
+</figure>
+<h3 id="桃果实">桃果实</h3>
+<p>采回当天分成三组，每组150个果实，第一组用ABA处理（10
+umol/L），第二组用NDGA（50
+umol/L）预处理24h以阻断果实内ABA的生物合成，第三组清水对照处理</p>
+<p>所有处理果实全部放置在25度、相对湿度70%的室内贮藏</p>
+<h3 id="薄皮甜瓜">薄皮甜瓜</h3>
+<h4 id="cucumis-melo-var.-makuwa-makino"><em>Cucumis melo var.
+makuwa</em> Makino</h4>
+<p>脱落酸处理：50个甜瓜果实，用100 uL/L的ABA浸泡果实，真空浸透2
+h，自然晾干</p>
+<p>对照：50个甜瓜果实，不做处理</p>
+<p>将各组放置于人工气候箱，阴暗贮藏，温度保持23+-1度，湿度为85%</p>
+<p>每个处理3次重复，每次50个瓜，第0、3、6、9 d分别取果肉样品</p>
+<h4 id="cucumis-melo-l">Cucumis melo L</h4>
+<p>坐果后第20天的果实，等分5组，每组3次重复，每一重复随机挑3个甜瓜</p>
+<p>第一组：外源ABA（100 umol/L）注射</p>
+<p>第二组：NDGA（50 umol/L）注射</p>
+<p>第三组：蒸馏水处理</p>
+<p>处理后的果实置于16+-1度、相对湿度95%的环境下保存</p>
+<p>每隔2 d取一次样</p>
+<h3 id="巨峰葡萄">巨峰葡萄</h3>
+<figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-05-09%2009.34.16.png"
+alt="巨峰葡萄ABA处理" />
+<figcaption aria-hidden="true">巨峰葡萄ABA处理</figcaption>
+</figure>
+<h3 id="番木瓜">番木瓜</h3>
+<p>注射</p>
+<p>果实内腔注射5 ml ABA（100 mg/L），NDGA（50 mg/L），对照为清水处理</p>
+<p>各处理再用相同溶液喷洒果面再处理一遍，处理完后将果实置于24度、湿度70%-80%的组培室内贮藏，每隔2
+d取样测定</p>
+<h3 id="草莓">草莓</h3>
+<p>大绿果再ABA溶液中浸泡1 min，对照果实浸入2%乙醇中</p>
+<p>浸渍后立即液氮采集对照样品，在3 h、24 h、3 d、7 d和10
+d后采集所有不同处理的样品</p>
+<p>ABA溶液制备：将ABA溶解在少量乙醇中，用去离子水稀释至50 uM和1
+mM（2%乙醇v/v总体积）的浓度</p>
+<h3 id="蓝莓">蓝莓</h3>
+<p>ABA处理组：2 mM ABA溶解于1%（v/v）无水乙醇中，再溶解于蒸馏水中</p>
+<p>对照组：1%（v/v）无水乙醇溶解于蒸馏水中</p>
+<p>NDGA处理组：70 uM NDGA溶解于1%（v/v）无水乙醇，再溶解于水中</p>
+<p>每组蓝莓在20+-0.5度、RH 80-85%下贮藏8 d，每隔1 d测定相关数据一次</p>
+<p>每次指标设置三次生物学与三次重复</p>
 ]]></content>
       <categories>
-        <category>ABI</category>
+        <category>基本</category>
       </categories>
       <tags>
-        <tag>ABI5 bZIP - 示例</tag>
+        <tag>示例</tag>
       </tags>
   </entry>
   <entry>
@@ -1225,89 +1308,6 @@ id="成熟过程中细胞壁修饰的非酶控制">成熟过程中细胞壁修�
       </categories>
       <tags>
         <tag>细胞壁 降解 代谢 - 示例</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>引物设计</title>
-    <url>/2022/02/11/ce50daf02dac/</url>
-    <content><![CDATA[<h3 id="引物设计的原则">引物设计的原则</h3>
-<ul>
-<li>引物的长度一般为15-30bp，常用为18-27bp</li>
-</ul>
-]]></content>
-      <categories>
-        <category>基本</category>
-      </categories>
-      <tags>
-        <tag>引物设计 - 示例</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>枇杷处理</title>
-    <url>/2022/02/11/e1dac0554fd4/</url>
-    <content><![CDATA[<p>NDGA/ABAI 去甲二氢化愈创木酸</p>
-<h3 id="树莓果实">树莓果实</h3>
-<p>果实浸泡</p>
-<p>蒸馏水、1 mM ABA、2 mM
-NDGA（先溶于少量DMSO中，之后缓慢加入适量的蒸馏水）水溶液浸果10
-min（之后有1-MCP处理，不知道会不会影响），蒸馏水对照，室温放置，处理 0
-d、0.5 d、1 d、1.5 d、2 d、2.5 d观察，测定果实硬度（ABA）</p>
-<figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-05-09%2009.21.09.png"
-alt="树莓ABA和NDGA处理" />
-<figcaption aria-hidden="true">树莓ABA和NDGA处理</figcaption>
-</figure>
-<h3 id="桃果实">桃果实</h3>
-<p>采回当天分成三组，每组150个果实，第一组用ABA处理（10
-umol/L），第二组用NDGA（50
-umol/L）预处理24h以阻断果实内ABA的生物合成，第三组清水对照处理</p>
-<p>所有处理果实全部放置在25度、相对湿度70%的室内贮藏</p>
-<h3 id="薄皮甜瓜">薄皮甜瓜</h3>
-<h4 id="cucumis-melo-var.-makuwa-makino"><em>Cucumis melo var.
-makuwa</em> Makino</h4>
-<p>脱落酸处理：50个甜瓜果实，用100 uL/L的ABA浸泡果实，真空浸透2
-h，自然晾干</p>
-<p>对照：50个甜瓜果实，不做处理</p>
-<p>将各组放置于人工气候箱，阴暗贮藏，温度保持23+-1度，湿度为85%</p>
-<p>每个处理3次重复，每次50个瓜，第0、3、6、9 d分别取果肉样品</p>
-<h4 id="cucumis-melo-l">Cucumis melo L</h4>
-<p>坐果后第20天的果实，等分5组，每组3次重复，每一重复随机挑3个甜瓜</p>
-<p>第一组：外源ABA（100 umol/L）注射</p>
-<p>第二组：NDGA（50 umol/L）注射</p>
-<p>第三组：蒸馏水处理</p>
-<p>处理后的果实置于16+-1度、相对湿度95%的环境下保存</p>
-<p>每隔2 d取一次样</p>
-<h3 id="巨峰葡萄">巨峰葡萄</h3>
-<figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-05-09%2009.34.16.png"
-alt="巨峰葡萄ABA处理" />
-<figcaption aria-hidden="true">巨峰葡萄ABA处理</figcaption>
-</figure>
-<h3 id="番木瓜">番木瓜</h3>
-<p>注射</p>
-<p>果实内腔注射5 ml ABA（100 mg/L），NDGA（50 mg/L），对照为清水处理</p>
-<p>各处理再用相同溶液喷洒果面再处理一遍，处理完后将果实置于24度、湿度70%-80%的组培室内贮藏，每隔2
-d取样测定</p>
-<h3 id="草莓">草莓</h3>
-<p>大绿果再ABA溶液中浸泡1 min，对照果实浸入2%乙醇中</p>
-<p>浸渍后立即液氮采集对照样品，在3 h、24 h、3 d、7 d和10
-d后采集所有不同处理的样品</p>
-<p>ABA溶液制备：将ABA溶解在少量乙醇中，用去离子水稀释至50 uM和1
-mM（2%乙醇v/v总体积）的浓度</p>
-<h3 id="蓝莓">蓝莓</h3>
-<p>ABA处理组：2 mM ABA溶解于1%（v/v）无水乙醇中，再溶解于蒸馏水中</p>
-<p>对照组：1%（v/v）无水乙醇溶解于蒸馏水中</p>
-<p>NDGA处理组：70 uM NDGA溶解于1%（v/v）无水乙醇，再溶解于水中</p>
-<p>每组蓝莓在20+-0.5度、RH 80-85%下贮藏8 d，每隔1 d测定相关数据一次</p>
-<p>每次指标设置三次生物学与三次重复</p>
-]]></content>
-      <categories>
-        <category>基本</category>
-      </categories>
-      <tags>
-        <tag>示例</tag>
       </tags>
   </entry>
   <entry>
