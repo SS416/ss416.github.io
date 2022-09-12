@@ -1,372 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>ABI5</title>
-    <url>/2022/02/11/107e813f08f0/</url>
-    <content><![CDATA[<h2 id="abi5">ABI5</h2>
-<h3 id="abi5-1">ABI5</h3>
-<ul>
-<li>ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多</li>
-<li>拟南芥中与ABI5高度同源的bZIP类转录因子有9个，统称为ABI5亚家族，氨基酸序列高度保守
-<ul>
-<li>ABI5/AtDPBF1、AtDPBF2（DC3 Promotor Binding
-Factors）、AtDPBF3/AREB3、AtDPBF4/EEL、ABF1、ABF2/AREB1、ABF3/AtDPBF5、ABF4/AREB2（AREB
-Binding Factors）和At5G42910
-<ul>
-<li>进一步可被分类<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2016.54.26.png"
-alt="ABI5及亚家族分类" /></li>
-</ul></li>
-<li>除ABI5外，其余7个基因在幼苗生长的不同阶段的相对表达量均逐渐走高
-<ul>
-<li>种子刚萌发时除ABF1和ABF2以外的7歌基因均大量表达；成熟种子中9个基因均大量表达
-<ul>
-<li>种子在打破休眠开始生长前，种子为维持休眠而大量表达，刚萌发时这种调控表达未完全解除</li>
-<li>ABF1和ABF2可能在调控种子萌发方面起重要作用</li>
-</ul></li>
-</ul></li>
-<li><img src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03 10.58.16.png" alt="拟南芥幼苗中ABI5亚家族的相对表达量" style="zoom:50%;" /></li>
-<li>果荚中AtDPBF2表达量最高，上升了约12倍；ABF2、ABI5和At5G42910均增加约5倍
-<ul>
-<li><img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2011.00.10.png"
-title="fig:" alt="ABI5在不同组织中表达" /></li>
-</ul></li>
-<li>生殖生长阶段，ABFs侧重在叶中表达，AtDPBFs侧重在种子和花中表达，且在种子中9个基因均大量表达</li>
-<li>ABI5亚家族中，4个ABFs基因均受ABA诱导表达，4个AtDPBFs基因中仅ABI5/AtDPBF1受ABA的显著诱导
-<ul>
-<li>ABFs是以结合ABA的顺式元件为诱饵所克隆；AtDPBFs是以体细胞中特异表达的顺式元件为诱饵所克隆</li>
-<li>ABF2和ABF4的表达强度在无处理的拟南芥幼苗中远高于ABF1和ABI5，它们在ABA诱导时增加幅度不大，因为在ABA处理前的幼苗中含量已经相当高</li>
-</ul></li>
-<li>低温诱导ABF1和ABI5的显著表达</li>
-<li>At5G42910在幼苗中难检测表达信号，但在花和果荚中大量表达，该基因可能在种子形成及成熟过程中起重要作用</li>
-</ul></li>
-</ul>
-]]></content>
-      <categories>
-        <category>ABI</category>
-      </categories>
-      <tags>
-        <tag>ABI5 bZIP - 示例</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ABA代谢通路</title>
-    <url>/2022/02/11/3fa11e9e8f4d/</url>
-    <content><![CDATA[<h3 id="section"></h3>
-<h3 id="aba代谢通路">ABA代谢通路</h3>
-<h4 id="aba概述">ABA概述</h4>
-<ul>
-<li>ABA在高等植物中主要由类胡萝卜素氧化裂解产生，是类胡萝卜素氧化裂解衍生物，与植物类胡萝卜素的积累关系密切</li>
-<li>拟南芥中类胡萝卜素羟化酶的突变会导致ABA生物合成基因AtNCED3显著下调表达</li>
-<li>ABA可以反馈调节类胡萝卜素代谢途径，从而影响植物类胡萝卜素的积累</li>
-</ul>
-<h4 id="aba生物合成与分解">ABA生物合成与分解</h4>
-<h5 id="aba合成">ABA合成</h5>
-<ul>
-<li><figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2011.06.48.png"
-alt="ABA代谢、信号转导及信号再激活途径" />
-<figcaption
-aria-hidden="true">ABA代谢、信号转导及信号再激活途径</figcaption>
-</figure></li>
-<li><p>紫黄质在玉米黄质环氧酶==ZEP==的催化下发生氧化反应产生紫黄质，紫黄质转化为9-顺式-新黄质，随后在==NCEDs==催化下生成黄质醛，再在==ABA2==催化下转化成脱落醛，最后==AAO==将脱落醛催化生成ABA</p>
-<ul>
-<li>ABA合成最后2步是胞质溶胶中的黄质醛被短链脱氢酶/还原酶(short chain
-dehydrogenase/reductase-like,SDR1)还原为ABA醛(ABA
-aldehyde),继而被ABA醛氧化酶(ABA-aldehyde
-oxidase,AAO)和钼辅因子硫化酶(molybdenum cofactor
-sulfurase,MoCo)转化为活性ABA</li>
-</ul></li>
-<li><figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2014.42.43.png"
-alt="ABA合成 C40途径" />
-<figcaption aria-hidden="true">ABA合成 C40途径</figcaption>
-</figure></li>
-<li><figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2015.29.32.png"
-alt="ABA生物合成和分解代谢" />
-<figcaption aria-hidden="true">ABA生物合成和分解代谢</figcaption>
-</figure></li>
-<li><figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2015.01.31.png"
-alt="植物ABA合成、代谢和转运途径及ABA合成与代谢基因的表达调控" />
-<figcaption
-aria-hidden="true">植物ABA合成、代谢和转运途径及ABA合成与代谢基因的表达调控</figcaption>
-</figure>
-<ul>
-<li>(A)ABA合成、代谢和转运途径;(B)ABA合成与代谢基因的表达调控。椭圆表示转录因子,矩形表示调节蛋白。</li>
-</ul></li>
-<li><p>NCEDs是关键限速酶，在植物组织中的转录水平直接决定ABA含量，干扰其表达会显著减少植物体内ABA含量</p></li>
-<li><p>已有研究表明,植物多个转录因子家族参与ABA合成酶基因的转录调控</p>
-<ul>
-<li>MYB、AP2/ERF、WRKY、NAC、bHLH和NGA等家族的转录因子促进ABA合成基因转录</li>
-<li>NFX和HD-ZIP等转录因子抑制ABA合成基因的表达</li>
-</ul></li>
-</ul>
-<h5 id="aba分解">ABA分解</h5>
-<ul>
-<li><p>分ABA羟基化、ABA结合化两类反应，羟基化为主要途径</p></li>
-<li><p>==CYP707A==是控制ABA羟基化的关键基因</p>
-<ul>
-<li><p>CYP707A蛋白催化ABA生成不稳定的羟基-
-ABA，自动异构化转化成红花菜豆酸PA，在还原酶作用下降解成二氢红花菜豆酸DPA</p></li>
-<li><p>羟基化发生在ABA的7'、8'、9'位甲基上，其中ABA的8'羟基化是植物ABA降解的主要方式</p></li>
-</ul></li>
-<li><p>结合化是ABA在GT作用下与葡萄糖结合生成无生理活性的脱落酸葡萄糖酯ABA-
-GE的过程</p></li>
-</ul>
-<h5 id="aba积累">ABA积累</h5>
-<ul>
-<li><p>ABA积累除了受ABA代谢途径上关键基因（如NCEDs、CYP707A）的控制外，上游代谢途径中的某些基因也发挥一定作用</p></li>
-<li><p>超量表达MEP途径的DXS基因、类胡萝卜素途径的PSY、BCH和ZEP基因均能提高种子或幼苗中的ABA含量</p></li>
-</ul>
-<h5 id="aba信号转导">ABA信号转导</h5>
-<ul>
-<li>细胞质中常通过==PYR/PYL/RCAR-
-PP2Cs-SnRK2s-ABFs==信号转导途径来完成ABA的信号转导
-<ul>
-<li>ABA—PYR/PYL/RCARs—PP2Cs—SnRK2s—转录因子—靶基因</li>
-</ul></li>
-<li>ABA不积累时，PP2Cs作为抑制子鱼SnRK2s蛋白结合，导致其不能磷酸化激活下游转录因子，不能启始转录调控网络</li>
-<li>ABA积累时，ABA与PYR/PYL/RCAR受体及PP2C结合，促使PP2C释放SnRK2s蛋白，磷酸化下游转录因子，激活ABA参与调控的相关生物学过程</li>
-</ul>
-<h4 id="aba代谢的调控">ABA代谢的调控</h4>
-<h5 id="aba代谢受多种逆境胁迫的调控">ABA代谢受多种逆境胁迫的调控</h5>
-<ul>
-<li>拟南芥中，失水、干旱及盐胁迫均能诱导ZEP、NCED3、ABA3和AAO3的表达，促进ABA积累</li>
-<li>ABA能反馈调节自身的积累，外源ABA处理能诱导ABA生物合成及分解基因的表达</li>
-<li>ABA分解代谢也收到逆境胁迫的诱导
-<ul>
-<li>拟南芥中4个CYP707A基因均能被渗透胁迫明显诱导</li>
-<li>高湿环境也能诱导CYP707A的表达，从而降低ABA含量</li>
-</ul></li>
-<li>ABA含量会随果实发育改变，黄瓜（非呼吸跃变）中果实发育动态变化时，参与ABA代谢的关键基因NCED1和CYP707A1也发生相应表达变化</li>
-</ul>
-<h5
-id="被报道参与调控aba生物合成和积累的转录因子">被报道参与调控ABA生物合成和积累的转录因子</h5>
-<ul>
-<li>拟南芥
-<ul>
-<li>脱水胁迫诱导转录因子NGATHA1表达，表达后的NGATHA1基因直接结合NCED3的启动子并激活其表达，诱导ABA的生物合成</li>
-<li>HD-ZIP
-Ⅰ家族转录因子HB2I、HB40和HB53通过直接结合NCED3的启动子并激活其表达来调控拟南芥中ABA的积累</li>
-<li>LYH- ABA生物合成的负调控因子，超表达能显著抑制NCED3的表达</li>
-<li>HD-
-ZIP家族蛋白HAT1直接结合ABA生物合成基因ABA3和NCED3的启动子并抑制其表达来调控拟南芥中ABA参与的抗逆生物学过程、</li>
-<li>HD- ZIPⅡ转录因子AtHAT1（homeodomain-leucine zipper protein 1）结合At
-ABA3和AtNCED3的启动子，抑制ABA合成和信号</li>
-<li>AtMYB96通过结合AtNCED2/6启动子促进ABA合成和种子休眠</li>
-<li>AP2/ERF（APETALA2/ethylene- responsive
-factor）家族的AtORA47（octadecanoid- responsive AP2/ERF- domain
-transcription factor
-47）结合AtNCED3/9启动子的O-box元件，促进损伤时ABA合成与信号转导</li>
-<li>AtDREB2C（dehydration- responsive element binding
-factor）通过结合AtNCED9启动子的DRE元件激活高温胁迫下种子的ABA合成</li>
-<li>AtWRKY57结合AtNCED3启动子，促进干旱诱导的ABA合成、提高植物的耐旱性</li>
-<li>NAC转录因子中的AtATAF1结合AtNCED3启动子，促进ABA合成</li>
-<li>AtNAP（NAC-like，activated by AP3/PI）结合At
-AAO3启动子，促进衰老叶片ABA合成与叶绿素降解</li>
-</ul></li>
-<li>花生
-<ul>
-<li>AhNAC2和AhAREB1蛋白复合体介导ABA合成的负反馈调节</li>
-<li>外源ABA促进AhNAC2和AhAREB1结合到AhNCED1启动子，进而抑制AhNCED1转录，其中AhArEB1是主要负调节因子</li>
-</ul></li>
-<li>水稻
-<ul>
-<li>OsNAC2通过上调OsZEP1和OsNCED3的表达且同时下调OsABA8ox1的表达来调控ABA的积累，促进水稻叶片衰老</li>
-</ul></li>
-<li>番茄
-<ul>
-<li>SlNAP2直接控制SlNCED1、SlABCG40和SlCYP707A2的表达来调节ABA水平</li>
-</ul></li>
-<li>玉米
-<ul>
-<li>ZmbZIP4调控NCED、ABA1和AAO3的表达来调节ABA的生物合成</li>
-</ul></li>
-<li>桃
-<ul>
-<li>成熟过程中，PpERF3正向调节PpNCED2/3的表达来促进ABA生物合成</li>
-</ul></li>
-<li>柑橘
-<ul>
-<li>CrMYB68直接抑制CrBCH2和CrNCED5的表达来负调控类胡萝卜素代谢和ABA积累</li>
-<li>CrNAC036直接结合CrNCED5的启动子并与CrMYB68相互作用协同抑制CrNCED5的表达，调节柑橘ABA的积累</li>
-</ul></li>
-</ul>
-<h3 id="类胡萝卜素途径-降解">类胡萝卜素途径-降解</h3>
-<ul>
-<li><p>分为酶促降解和非酶促降解两种形式</p></li>
-<li><p>非酶促降解主要与相应逆境胁迫应答有关</p></li>
-<li><p>酶促降解主要由类胡萝卜素双加氧酶CDs家族催化完成</p>
-<ul>
-<li>植物中CDs家族成员主要分为CCDs和NCEDs两大类</li>
-<li>CCDs类包括CCD1、CCD4、CCD7和CCD8
-<ul>
-<li>CCD1蛋白定位于细胞质，主要参与芳香类物质的形成</li>
-<li>CCD4蛋白定位于质体中，直接影响胡萝卜素积累，不同物种中存在明显的功能分化</li>
-<li>CCD7和CCD8蛋白定位于质体中，目前被报道主要是参与降解被异构化的beta-胡萝卜素</li>
-</ul></li>
-<li>NCEDs类包括NCED2、NCED3、NCED5、NCED6和NCED9，主要参与ABA的生物合成</li>
-</ul></li>
-<li><figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2011.42.44.png"
-alt="植物类胡萝卜素代谢途径" />
-<figcaption aria-hidden="true">植物类胡萝卜素代谢途径</figcaption>
-</figure></li>
-<li><p>类胡萝卜素代谢的转录调控</p>
-<ul>
-<li>PSY是整个代谢途径上的关键限速类，转录水平和蛋白水平的变化显著影响类胡萝卜素积累，造成果实和蔬菜等的色泽变异</li>
-<li>LCYB是位于类胡萝卜素代谢途径分支点的关键酶，其酶活性和转录差异控制着番茄红素的积累，影响果实红色的呈现</li>
-<li>CCD4是类胡萝卜素裂解酶，不同物种中存在细微功能差异，以不同种类的胡萝卜素作为裂解底物，直接影响类胡萝素的积累和果实着色</li>
-<li>CRTISO、BCH等也发挥重要作用</li>
-</ul></li>
-</ul>
-<h3
-id="aba调控果实成熟衰老非呼吸跃变型">ABA调控果实成熟衰老（非呼吸跃变型）</h3>
-<h4 id="报道的成果">报道的成果</h4>
-<ul>
-<li>葡萄果实成熟衰老过程中
-<ul>
-<li>VvNCED1基因的上调表达导致ABA含量增加，促进果实的成熟衰老（葡萄中克隆出12个NCED）</li>
-<li>外源ABA处理葡萄果实也能促进内援ABA积累，加快果实软化</li>
-<li>用ABA抑制剂处理葡萄果实能显著抑制ABA的生物合成</li>
-</ul></li>
-<li>ABA通过影响成熟衰老过程中大部分蛋白的水平来调控葡萄果实的成熟衰老-草莓
-<ul>
-<li>沉默限速基因FaNCED1的表达，导致草莓果实ABA含量降低以及延迟果实转色</li>
-<li>外源ABA处理沉默FaNCED1基因后的无色果实能恢复果实正常转色并加快果实衰老</li>
-</ul></li>
-</ul>
-<h4 id="转录因子的作用">转录因子的作用</h4>
-<h5 id="作用方式">作用方式</h5>
-<ul>
-<li>通过直接调节激素的生物合成和积累来间接促进果实的成熟衰老</li>
-<li>通过响应外界环境信号或激素的刺激直接调控成熟衰老相关基因的表达</li>
-<li>**非呼吸跃变型果实中主要通过调控ABA的生物合成或响应ABA的诱导来参与调控果实的成熟衰老</li>
-</ul>
-<h5 id="报道的成果-1">报道的成果</h5>
-<ul>
-<li>葡萄中超量表达VvABF2转录因子改变了葡萄细胞的ABA代谢调控网络，同时影响细胞壁的软化及酚类化合物的合成，最终影响果实的成熟衰老</li>
-<li>草莓中R2R3-MYB10响应ABA的诱导表达从而促进草莓色泽的积累及果实成熟</li>
-<li>ABA促进樱桃PacMYBA转录因子的转录调控果实色泽的积累及成熟</li>
-</ul>
-<h5
-id="被报道的调控aba生物合成的转录饮醉">被报道的调控ABA生物合成的转录饮醉</h5>
-<ul>
-<li>AtNAP、ORE1、ATAF1/2、OsNAC2、SlNAP2</li>
-<li>HD- ZIP Ⅰ家族</li>
-</ul>
-<h3 id="补充的一些">补充的一些</h3>
-<ul>
-<li>WRKY主要调控衰老，WRKY25/42/45/53/54/55/57/75通过正调控或负调控激素及活性氧的生物合成和积累来调控植物叶片衰老；也直接参与调控某些衰老相关基因（如SAG13、SAG29/SWEET15）的表达来发挥功能</li>
-<li>非呼吸跃变型果实：草莓、柑橘、葡萄、荔枝等</li>
-<li>在桃、番茄等呼吸跃变型果实中，ABA生合成高峰早于乙烯</li>
-<li>研究柑橘果实中ABA的生物合成不仅可建立起柑橘类胡萝卜素积累与ABA含量之间的关系，且可以加深对ABA调控果实发育的认识</li>
-<li>确定某基因：植物中原花青素积累的调控主要受XXX调节，转录组数据中与其具有高度相关性的转录因子为YYY，具有高度同源性，其他差异表达转录因子的同源基因未被报道直接参与调控植物原花青素的积累；YYY基因突变会导致……，因此选取YYY为关键候选基因</li>
-<li>缩略语表<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2013.58.27.png"
-alt="缩略语表1" /></li>
-</ul>
-<figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2013.59.38.png"
-alt="缩略语表2" />
-<figcaption aria-hidden="true">缩略语表2</figcaption>
-</figure>
-<ul>
-<li>AtNCED3是主要的抗旱胁迫基因，AtNCED5主要促进拟南芥种子休眠；SlNCED1可加速果实软化</li>
-</ul>
-]]></content>
-      <categories>
-        <category>ABA有关代谢通路论文阅读</category>
-      </categories>
-      <tags>
-        <tag>ABA 代谢 类胡萝卜素 - 示例</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ABI4</title>
-    <url>/2022/02/11/4029da9dbcfa/</url>
-    <content><![CDATA[<h2 id="abi4">ABI4</h2>
-<h3 id="ap2erebp转录因子家族">AP2/EREBP转录因子家族</h3>
-<ul>
-<li>是植物特有的转录因子，与脱落酸和糖有关</li>
-<li>番茄钟，AP2在绿色果实、转色期果实、红色果实中均表达，转色期果实中表达量最高，与果实发育有关</li>
-</ul>
-<h3 id="abi4-1">ABI4</h3>
-<ul>
-<li><p>拟南芥中的转录因子ABI4属于AP2家族，在ABA和蔗糖信号中发挥作用</p>
-<ul>
-<li>可与ABA应答元件ABRE（ABA responsive element）结合</li>
-<li>属于具有AP2/ERF结构域的蛋白中的CBF/DREB亚家族，仅包含1个AP2/ERF结构域</li>
-</ul></li>
-<li><p>草莓ABI4作为正调控因子参与草莓果实的成熟调控</p>
-<ul>
-<li><p>抑制ABA受体基因FaPYR1或ABA信号组分中的基因FaABAR的表达量时也抑制了草莓果实中FaABI4基因的转录水平</p></li>
-<li><p>FaABI4基因的表达水平在小绿果和大绿果极低，然后随着草莓果实发育进程迅速增加，并在全红果阶段保持在非常高的水平——FaABI4可正向调节果实成熟</p></li>
-<li><figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-02%2017.06.32.png"
-alt="草莓中FaABI4表达量" />
-<figcaption aria-hidden="true">草莓中FaABI4表达量</figcaption>
-</figure></li>
-<li><p>FaABI4基因的变化降低了草莓果实中蔗糖含量，同时花色苷含量也下降，但提高了草莓果实硬度，对ABA含量影响不大</p></li>
-<li><p>FaABI4基因干扰的果实的FaCHS和FaUFGT的表达量都降低，这两个基因是花色苷合成过程中的关键基因，其表达量下降会导致花色苷含量减少</p></li>
-<li><figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2009.24.29.png"
-alt="FaABI干扰对果实影响" />
-<figcaption aria-hidden="true">FaABI干扰对果实影响</figcaption>
-</figure></li>
-<li><p>FaABI4基因可通过调控花色苷合成酶来影响果实花色苷的积累，进而影响果实的发育进程，在果实着色和成熟方面起正向调控作用</p></li>
-</ul></li>
-<li><p>番茄中的AP2对成熟起负调控作用</p></li>
-<li><p>种子及种子萌动时期，ABI4的表达量最高，随后表达急剧下降</p></li>
-</ul>
-<h3 id="abi4研究进展">ABI4研究进展</h3>
-<ul>
-<li>ABI4属于植物特有的AP2/ERF家族，N端含典型的AP2结构域，在进化上高度保守，且大部分植物中ABI4基因都是单一编码的，在植物生长发育过程中具有重要作用</li>
-<li>ABI4可以激活或抑制一系列下游基因的表达，这些基因的启动子大多含ABI4可结合的元件，如CE1和S-box；但ABI4基因本身启动子中也含有CE1元件，因此ABI4可被自身激活</li>
-<li>ABI4对启动子元件的识别特异性不高，因此能协同或拮抗其他转录因子调控下有基因的表达</li>
-<li>abi4是ABA不敏感的突变体，一定ABA浓度下萌发不受影响
-<ul>
-<li>在拟南芥中被成功精细定位abi4突变基因（At2g40220）</li>
-</ul></li>
-<li>ABI4基因在发育的种子中表达量较高，幼苗期的子叶、下胚轴和根部都能检测到表达；在营养器官中表达水平较低，但仍具有生理功能</li>
-<li>ABI4能与包括ABI5在内的一类bZIP转录因子协同调控下游靶标基因的表达</li>
-<li>WRKY18/40/60通过互作与ABI4启动子区域W-box结合负调控ABI4转录，从而调控ABA信号转导</li>
-<li>ABI4的表达量随着种子萌发和幼苗形态建成而逐步降低</li>
-<li>ABI4与ABI3和ABI4在调控ABA应答以及抑制的种子萌发过程中存在协同互作现象</li>
-<li>ABI4直接结合CYP707A1和CYP707A2的启动子中的CCAC元件，并抑制其表达（拟南芥）
-<ul>
-<li>ABI4并非与所有含CCAC序列的启动子相互作用，与CCAC序列的结合有特异性，但特异性的功能还不清楚</li>
-</ul></li>
-<li>ABA不能影响ABI4的蛋白水平</li>
-<li>ABI4主要是激活基因的表达，结合到ABI4、ABI5、SBE2.2启动子中的CE1元件，激活其表达；在调控叶绿体反馈信号和介导ABA与糖信号互作中，ABI4结合到一个较短序列CCAC抑制光合作用基因表达</li>
-<li>ABI4与乙烯
-<ul>
-<li>ABI4负调控乙烯的生成</li>
-<li>ABA通过ABI4抑制乙烯合成</li>
-</ul></li>
-<li>ABI3、ABI4、ABI5分别编码B3、APETALA2（AP2）和bZIP转录因子</li>
-<li>ABI5是ABA影响种子萌发和幼苗形态建成中的重要转录因子，主要在种子中表达，营养组织中表达很少</li>
-</ul>
-]]></content>
-      <categories>
-        <category>ABI4（AP2/ERF类）</category>
-      </categories>
-      <tags>
-        <tag>ABI4 AP2/ERF - 示例</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>响应ABA的转录因子ABI能不能激活 细胞壁结构基因的启动子</title>
     <url>/2022/02/11/d05924413515/</url>
     <content><![CDATA[<h4 id="文献里看到的">文献里看到的</h4>
@@ -1038,71 +672,162 @@ endotransglycoslase/hydrolase</td>
       </tags>
   </entry>
   <entry>
-    <title>枇杷处理</title>
-    <url>/2022/02/11/e1dac0554fd4/</url>
-    <content><![CDATA[<p>NDGA/ABAI 去甲二氢化愈创木酸</p>
-<h3 id="树莓果实">树莓果实</h3>
-<p>果实浸泡</p>
-<p>蒸馏水、1 mM ABA、2 mM
-NDGA（先溶于少量DMSO中，之后缓慢加入适量的蒸馏水）水溶液浸果10
-min（之后有1-MCP处理，不知道会不会影响），蒸馏水对照，室温放置，处理 0
-d、0.5 d、1 d、1.5 d、2 d、2.5 d观察，测定果实硬度（ABA）</p>
-<figure>
+    <title>ABI4</title>
+    <url>/2022/02/11/4029da9dbcfa/</url>
+    <content><![CDATA[<h2 id="abi4">ABI4</h2>
+<h3 id="ap2erebp转录因子家族">AP2/EREBP转录因子家族</h3>
+<ul>
+<li>是植物特有的转录因子，与脱落酸和糖有关</li>
+<li>番茄钟，AP2在绿色果实、转色期果实、红色果实中均表达，转色期果实中表达量最高，与果实发育有关</li>
+</ul>
+<h3 id="abi4-1">ABI4</h3>
+<ul>
+<li><p>拟南芥中的转录因子ABI4属于AP2家族，在ABA和蔗糖信号中发挥作用</p>
+<ul>
+<li>可与ABA应答元件ABRE（ABA responsive element）结合</li>
+<li>属于具有AP2/ERF结构域的蛋白中的CBF/DREB亚家族，仅包含1个AP2/ERF结构域</li>
+</ul></li>
+<li><p>草莓ABI4作为正调控因子参与草莓果实的成熟调控</p>
+<ul>
+<li><p>抑制ABA受体基因FaPYR1或ABA信号组分中的基因FaABAR的表达量时也抑制了草莓果实中FaABI4基因的转录水平</p></li>
+<li><p>FaABI4基因的表达水平在小绿果和大绿果极低，然后随着草莓果实发育进程迅速增加，并在全红果阶段保持在非常高的水平——FaABI4可正向调节果实成熟</p></li>
+<li><figure>
 <img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-05-09%2009.21.09.png"
-alt="树莓ABA和NDGA处理" />
-<figcaption aria-hidden="true">树莓ABA和NDGA处理</figcaption>
-</figure>
-<h3 id="桃果实">桃果实</h3>
-<p>采回当天分成三组，每组150个果实，第一组用ABA处理（10
-umol/L），第二组用NDGA（50
-umol/L）预处理24h以阻断果实内ABA的生物合成，第三组清水对照处理</p>
-<p>所有处理果实全部放置在25度、相对湿度70%的室内贮藏</p>
-<h3 id="薄皮甜瓜">薄皮甜瓜</h3>
-<h4 id="cucumis-melo-var.-makuwa-makino"><em>Cucumis melo var.
-makuwa</em> Makino</h4>
-<p>脱落酸处理：50个甜瓜果实，用100 uL/L的ABA浸泡果实，真空浸透2
-h，自然晾干</p>
-<p>对照：50个甜瓜果实，不做处理</p>
-<p>将各组放置于人工气候箱，阴暗贮藏，温度保持23+-1度，湿度为85%</p>
-<p>每个处理3次重复，每次50个瓜，第0、3、6、9 d分别取果肉样品</p>
-<h4 id="cucumis-melo-l">Cucumis melo L</h4>
-<p>坐果后第20天的果实，等分5组，每组3次重复，每一重复随机挑3个甜瓜</p>
-<p>第一组：外源ABA（100 umol/L）注射</p>
-<p>第二组：NDGA（50 umol/L）注射</p>
-<p>第三组：蒸馏水处理</p>
-<p>处理后的果实置于16+-1度、相对湿度95%的环境下保存</p>
-<p>每隔2 d取一次样</p>
-<h3 id="巨峰葡萄">巨峰葡萄</h3>
-<figure>
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-02%2017.06.32.png"
+alt="草莓中FaABI4表达量" />
+<figcaption aria-hidden="true">草莓中FaABI4表达量</figcaption>
+</figure></li>
+<li><p>FaABI4基因的变化降低了草莓果实中蔗糖含量，同时花色苷含量也下降，但提高了草莓果实硬度，对ABA含量影响不大</p></li>
+<li><p>FaABI4基因干扰的果实的FaCHS和FaUFGT的表达量都降低，这两个基因是花色苷合成过程中的关键基因，其表达量下降会导致花色苷含量减少</p></li>
+<li><figure>
 <img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-05-09%2009.34.16.png"
-alt="巨峰葡萄ABA处理" />
-<figcaption aria-hidden="true">巨峰葡萄ABA处理</figcaption>
-</figure>
-<h3 id="番木瓜">番木瓜</h3>
-<p>注射</p>
-<p>果实内腔注射5 ml ABA（100 mg/L），NDGA（50 mg/L），对照为清水处理</p>
-<p>各处理再用相同溶液喷洒果面再处理一遍，处理完后将果实置于24度、湿度70%-80%的组培室内贮藏，每隔2
-d取样测定</p>
-<h3 id="草莓">草莓</h3>
-<p>大绿果再ABA溶液中浸泡1 min，对照果实浸入2%乙醇中</p>
-<p>浸渍后立即液氮采集对照样品，在3 h、24 h、3 d、7 d和10
-d后采集所有不同处理的样品</p>
-<p>ABA溶液制备：将ABA溶解在少量乙醇中，用去离子水稀释至50 uM和1
-mM（2%乙醇v/v总体积）的浓度</p>
-<h3 id="蓝莓">蓝莓</h3>
-<p>ABA处理组：2 mM ABA溶解于1%（v/v）无水乙醇中，再溶解于蒸馏水中</p>
-<p>对照组：1%（v/v）无水乙醇溶解于蒸馏水中</p>
-<p>NDGA处理组：70 uM NDGA溶解于1%（v/v）无水乙醇，再溶解于水中</p>
-<p>每组蓝莓在20+-0.5度、RH 80-85%下贮藏8 d，每隔1 d测定相关数据一次</p>
-<p>每次指标设置三次生物学与三次重复</p>
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2009.24.29.png"
+alt="FaABI干扰对果实影响" />
+<figcaption aria-hidden="true">FaABI干扰对果实影响</figcaption>
+</figure></li>
+<li><p>FaABI4基因可通过调控花色苷合成酶来影响果实花色苷的积累，进而影响果实的发育进程，在果实着色和成熟方面起正向调控作用</p></li>
+</ul></li>
+<li><p>番茄中的AP2对成熟起负调控作用</p></li>
+<li><p>种子及种子萌动时期，ABI4的表达量最高，随后表达急剧下降</p></li>
+</ul>
+<h3 id="abi4研究进展">ABI4研究进展</h3>
+<ul>
+<li>ABI4属于植物特有的AP2/ERF家族，N端含典型的AP2结构域，在进化上高度保守，且大部分植物中ABI4基因都是单一编码的，在植物生长发育过程中具有重要作用</li>
+<li>ABI4可以激活或抑制一系列下游基因的表达，这些基因的启动子大多含ABI4可结合的元件，如CE1和S-box；但ABI4基因本身启动子中也含有CE1元件，因此ABI4可被自身激活</li>
+<li>ABI4对启动子元件的识别特异性不高，因此能协同或拮抗其他转录因子调控下有基因的表达</li>
+<li>abi4是ABA不敏感的突变体，一定ABA浓度下萌发不受影响
+<ul>
+<li>在拟南芥中被成功精细定位abi4突变基因（At2g40220）</li>
+</ul></li>
+<li>ABI4基因在发育的种子中表达量较高，幼苗期的子叶、下胚轴和根部都能检测到表达；在营养器官中表达水平较低，但仍具有生理功能</li>
+<li>ABI4能与包括ABI5在内的一类bZIP转录因子协同调控下游靶标基因的表达</li>
+<li>WRKY18/40/60通过互作与ABI4启动子区域W-box结合负调控ABI4转录，从而调控ABA信号转导</li>
+<li>ABI4的表达量随着种子萌发和幼苗形态建成而逐步降低</li>
+<li>ABI4与ABI3和ABI4在调控ABA应答以及抑制的种子萌发过程中存在协同互作现象</li>
+<li>ABI4直接结合CYP707A1和CYP707A2的启动子中的CCAC元件，并抑制其表达（拟南芥）
+<ul>
+<li>ABI4并非与所有含CCAC序列的启动子相互作用，与CCAC序列的结合有特异性，但特异性的功能还不清楚</li>
+</ul></li>
+<li>ABA不能影响ABI4的蛋白水平</li>
+<li>ABI4主要是激活基因的表达，结合到ABI4、ABI5、SBE2.2启动子中的CE1元件，激活其表达；在调控叶绿体反馈信号和介导ABA与糖信号互作中，ABI4结合到一个较短序列CCAC抑制光合作用基因表达</li>
+<li>ABI4与乙烯
+<ul>
+<li>ABI4负调控乙烯的生成</li>
+<li>ABA通过ABI4抑制乙烯合成</li>
+</ul></li>
+<li>ABI3、ABI4、ABI5分别编码B3、APETALA2（AP2）和bZIP转录因子</li>
+<li>ABI5是ABA影响种子萌发和幼苗形态建成中的重要转录因子，主要在种子中表达，营养组织中表达很少</li>
+</ul>
 ]]></content>
       <categories>
-        <category>基本</category>
+        <category>ABI4（AP2/ERF类）</category>
       </categories>
       <tags>
-        <tag>示例</tag>
+        <tag>ABI4 AP2/ERF - 示例</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ABI5</title>
+    <url>/2022/02/11/107e813f08f0/</url>
+    <content><![CDATA[<h2 id="abi5">ABI5</h2>
+<h3 id="abi5-1">ABI5</h3>
+<ul>
+<li>ABI5编码一碱性亮氨酸拉链类（bZIP）转录因子，属于bZIP类转录因子；可在花和种胚中表达，在干种子中积累最多</li>
+<li>拟南芥中与ABI5高度同源的bZIP类转录因子有9个，统称为ABI5亚家族，氨基酸序列高度保守
+<ul>
+<li>ABI5/AtDPBF1、AtDPBF2（DC3 Promotor Binding
+Factors）、AtDPBF3/AREB3、AtDPBF4/EEL、ABF1、ABF2/AREB1、ABF3/AtDPBF5、ABF4/AREB2（AREB
+Binding Factors）和At5G42910
+<ul>
+<li>进一步可被分类<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-18%2016.54.26.png"
+alt="ABI5及亚家族分类" /></li>
+</ul></li>
+<li>除ABI5外，其余7个基因在幼苗生长的不同阶段的相对表达量均逐渐走高
+<ul>
+<li>种子刚萌发时除ABF1和ABF2以外的7歌基因均大量表达；成熟种子中9个基因均大量表达
+<ul>
+<li>种子在打破休眠开始生长前，种子为维持休眠而大量表达，刚萌发时这种调控表达未完全解除</li>
+<li>ABF1和ABF2可能在调控种子萌发方面起重要作用</li>
+</ul></li>
+</ul></li>
+<li><img src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03 10.58.16.png" alt="拟南芥幼苗中ABI5亚家族的相对表达量" style="zoom:50%;" /></li>
+<li>果荚中AtDPBF2表达量最高，上升了约12倍；ABF2、ABI5和At5G42910均增加约5倍
+<ul>
+<li><img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-03%2011.00.10.png"
+title="fig:" alt="ABI5在不同组织中表达" /></li>
+</ul></li>
+<li>生殖生长阶段，ABFs侧重在叶中表达，AtDPBFs侧重在种子和花中表达，且在种子中9个基因均大量表达</li>
+<li>ABI5亚家族中，4个ABFs基因均受ABA诱导表达，4个AtDPBFs基因中仅ABI5/AtDPBF1受ABA的显著诱导
+<ul>
+<li>ABFs是以结合ABA的顺式元件为诱饵所克隆；AtDPBFs是以体细胞中特异表达的顺式元件为诱饵所克隆</li>
+<li>ABF2和ABF4的表达强度在无处理的拟南芥幼苗中远高于ABF1和ABI5，它们在ABA诱导时增加幅度不大，因为在ABA处理前的幼苗中含量已经相当高</li>
+</ul></li>
+<li>低温诱导ABF1和ABI5的显著表达</li>
+<li>At5G42910在幼苗中难检测表达信号，但在花和果荚中大量表达，该基因可能在种子形成及成熟过程中起重要作用</li>
+</ul></li>
+</ul>
+]]></content>
+      <categories>
+        <category>ABI</category>
+      </categories>
+      <tags>
+        <tag>ABI5 bZIP - 示例</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一些需要找的基因</title>
+    <url>/2022/02/11/e514183a692c/</url>
+    <content><![CDATA[<h3 id="需要在注释里找的转录因子">需要在注释里找的转录因子</h3>
+<p>polygalacturonase</p>
+<p>endoglucanase(CEL) 内切聚糖酶——切割基质半纤维素或果胶的主链</p>
+<p>xyloglucan endotransglucosylase/hydrolase (XTH)</p>
+<p>pectate lyase (PL)</p>
+<p>expansin</p>
+<p>glycosidases 糖苷酶——去除侧链从而允许多糖骨架之间更大的相互作用</p>
+<p>transglycosylases 转糖基酶——切割半纤维素并将它们连接在一起</p>
+<p>esterases//acetylases
+酯酶//乙酰酶——去除果胶中的甲基或乙酰基并裂解多糖链之间的酯键</p>
+<figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-20%2010.00.37.png"
+alt="植物转录因子分类" />
+<figcaption aria-hidden="true">植物转录因子分类</figcaption>
+</figure>
+<p>bZIP类转录因子的结构域</p>
+<figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-20%2010.01.50.png"
+alt="bZIP类转录因子结构域" />
+<figcaption aria-hidden="true">bZIP类转录因子结构域</figcaption>
+</figure>
+]]></content>
+      <categories>
+        <category>ABA有关代谢通路论文阅读</category>
+      </categories>
+      <tags>
+        <tag>ABA 代谢 类胡萝卜素 - 示例</tag>
       </tags>
   </entry>
   <entry>
@@ -1311,37 +1036,312 @@ id="成熟过程中细胞壁修饰的非酶控制">成熟过程中细胞壁修�
       </tags>
   </entry>
   <entry>
-    <title>一些需要找的基因</title>
-    <url>/2022/02/11/e514183a692c/</url>
-    <content><![CDATA[<h3 id="需要在注释里找的转录因子">需要在注释里找的转录因子</h3>
-<p>polygalacturonase</p>
-<p>endoglucanase(CEL) 内切聚糖酶——切割基质半纤维素或果胶的主链</p>
-<p>xyloglucan endotransglucosylase/hydrolase (XTH)</p>
-<p>pectate lyase (PL)</p>
-<p>expansin</p>
-<p>glycosidases 糖苷酶——去除侧链从而允许多糖骨架之间更大的相互作用</p>
-<p>transglycosylases 转糖基酶——切割半纤维素并将它们连接在一起</p>
-<p>esterases//acetylases
-酯酶//乙酰酶——去除果胶中的甲基或乙酰基并裂解多糖链之间的酯键</p>
+    <title>ABA代谢通路</title>
+    <url>/2022/02/11/3fa11e9e8f4d/</url>
+    <content><![CDATA[<h3 id="section"></h3>
+<h3 id="aba代谢通路">ABA代谢通路</h3>
+<h4 id="aba概述">ABA概述</h4>
+<ul>
+<li>ABA在高等植物中主要由类胡萝卜素氧化裂解产生，是类胡萝卜素氧化裂解衍生物，与植物类胡萝卜素的积累关系密切</li>
+<li>拟南芥中类胡萝卜素羟化酶的突变会导致ABA生物合成基因AtNCED3显著下调表达</li>
+<li>ABA可以反馈调节类胡萝卜素代谢途径，从而影响植物类胡萝卜素的积累</li>
+</ul>
+<h4 id="aba生物合成与分解">ABA生物合成与分解</h4>
+<h5 id="aba合成">ABA合成</h5>
+<ul>
+<li><figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2011.06.48.png"
+alt="ABA代谢、信号转导及信号再激活途径" />
+<figcaption
+aria-hidden="true">ABA代谢、信号转导及信号再激活途径</figcaption>
+</figure></li>
+<li><p>紫黄质在玉米黄质环氧酶==ZEP==的催化下发生氧化反应产生紫黄质，紫黄质转化为9-顺式-新黄质，随后在==NCEDs==催化下生成黄质醛，再在==ABA2==催化下转化成脱落醛，最后==AAO==将脱落醛催化生成ABA</p>
+<ul>
+<li>ABA合成最后2步是胞质溶胶中的黄质醛被短链脱氢酶/还原酶(short chain
+dehydrogenase/reductase-like,SDR1)还原为ABA醛(ABA
+aldehyde),继而被ABA醛氧化酶(ABA-aldehyde
+oxidase,AAO)和钼辅因子硫化酶(molybdenum cofactor
+sulfurase,MoCo)转化为活性ABA</li>
+</ul></li>
+<li><figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2014.42.43.png"
+alt="ABA合成 C40途径" />
+<figcaption aria-hidden="true">ABA合成 C40途径</figcaption>
+</figure></li>
+<li><figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2015.29.32.png"
+alt="ABA生物合成和分解代谢" />
+<figcaption aria-hidden="true">ABA生物合成和分解代谢</figcaption>
+</figure></li>
+<li><figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2015.01.31.png"
+alt="植物ABA合成、代谢和转运途径及ABA合成与代谢基因的表达调控" />
+<figcaption
+aria-hidden="true">植物ABA合成、代谢和转运途径及ABA合成与代谢基因的表达调控</figcaption>
+</figure>
+<ul>
+<li>(A)ABA合成、代谢和转运途径;(B)ABA合成与代谢基因的表达调控。椭圆表示转录因子,矩形表示调节蛋白。</li>
+</ul></li>
+<li><p>NCEDs是关键限速酶，在植物组织中的转录水平直接决定ABA含量，干扰其表达会显著减少植物体内ABA含量</p></li>
+<li><p>已有研究表明,植物多个转录因子家族参与ABA合成酶基因的转录调控</p>
+<ul>
+<li>MYB、AP2/ERF、WRKY、NAC、bHLH和NGA等家族的转录因子促进ABA合成基因转录</li>
+<li>NFX和HD-ZIP等转录因子抑制ABA合成基因的表达</li>
+</ul></li>
+</ul>
+<h5 id="aba分解">ABA分解</h5>
+<ul>
+<li><p>分ABA羟基化、ABA结合化两类反应，羟基化为主要途径</p></li>
+<li><p>==CYP707A==是控制ABA羟基化的关键基因</p>
+<ul>
+<li><p>CYP707A蛋白催化ABA生成不稳定的羟基-
+ABA，自动异构化转化成红花菜豆酸PA，在还原酶作用下降解成二氢红花菜豆酸DPA</p></li>
+<li><p>羟基化发生在ABA的7'、8'、9'位甲基上，其中ABA的8'羟基化是植物ABA降解的主要方式</p></li>
+</ul></li>
+<li><p>结合化是ABA在GT作用下与葡萄糖结合生成无生理活性的脱落酸葡萄糖酯ABA-
+GE的过程</p></li>
+</ul>
+<h5 id="aba积累">ABA积累</h5>
+<ul>
+<li><p>ABA积累除了受ABA代谢途径上关键基因（如NCEDs、CYP707A）的控制外，上游代谢途径中的某些基因也发挥一定作用</p></li>
+<li><p>超量表达MEP途径的DXS基因、类胡萝卜素途径的PSY、BCH和ZEP基因均能提高种子或幼苗中的ABA含量</p></li>
+</ul>
+<h5 id="aba信号转导">ABA信号转导</h5>
+<ul>
+<li>细胞质中常通过==PYR/PYL/RCAR-
+PP2Cs-SnRK2s-ABFs==信号转导途径来完成ABA的信号转导
+<ul>
+<li>ABA—PYR/PYL/RCARs—PP2Cs—SnRK2s—转录因子—靶基因</li>
+</ul></li>
+<li>ABA不积累时，PP2Cs作为抑制子鱼SnRK2s蛋白结合，导致其不能磷酸化激活下游转录因子，不能启始转录调控网络</li>
+<li>ABA积累时，ABA与PYR/PYL/RCAR受体及PP2C结合，促使PP2C释放SnRK2s蛋白，磷酸化下游转录因子，激活ABA参与调控的相关生物学过程</li>
+</ul>
+<h4 id="aba代谢的调控">ABA代谢的调控</h4>
+<h5 id="aba代谢受多种逆境胁迫的调控">ABA代谢受多种逆境胁迫的调控</h5>
+<ul>
+<li>拟南芥中，失水、干旱及盐胁迫均能诱导ZEP、NCED3、ABA3和AAO3的表达，促进ABA积累</li>
+<li>ABA能反馈调节自身的积累，外源ABA处理能诱导ABA生物合成及分解基因的表达</li>
+<li>ABA分解代谢也收到逆境胁迫的诱导
+<ul>
+<li>拟南芥中4个CYP707A基因均能被渗透胁迫明显诱导</li>
+<li>高湿环境也能诱导CYP707A的表达，从而降低ABA含量</li>
+</ul></li>
+<li>ABA含量会随果实发育改变，黄瓜（非呼吸跃变）中果实发育动态变化时，参与ABA代谢的关键基因NCED1和CYP707A1也发生相应表达变化</li>
+</ul>
+<h5
+id="被报道参与调控aba生物合成和积累的转录因子">被报道参与调控ABA生物合成和积累的转录因子</h5>
+<ul>
+<li>拟南芥
+<ul>
+<li>脱水胁迫诱导转录因子NGATHA1表达，表达后的NGATHA1基因直接结合NCED3的启动子并激活其表达，诱导ABA的生物合成</li>
+<li>HD-ZIP
+Ⅰ家族转录因子HB2I、HB40和HB53通过直接结合NCED3的启动子并激活其表达来调控拟南芥中ABA的积累</li>
+<li>LYH- ABA生物合成的负调控因子，超表达能显著抑制NCED3的表达</li>
+<li>HD-
+ZIP家族蛋白HAT1直接结合ABA生物合成基因ABA3和NCED3的启动子并抑制其表达来调控拟南芥中ABA参与的抗逆生物学过程、</li>
+<li>HD- ZIPⅡ转录因子AtHAT1（homeodomain-leucine zipper protein 1）结合At
+ABA3和AtNCED3的启动子，抑制ABA合成和信号</li>
+<li>AtMYB96通过结合AtNCED2/6启动子促进ABA合成和种子休眠</li>
+<li>AP2/ERF（APETALA2/ethylene- responsive
+factor）家族的AtORA47（octadecanoid- responsive AP2/ERF- domain
+transcription factor
+47）结合AtNCED3/9启动子的O-box元件，促进损伤时ABA合成与信号转导</li>
+<li>AtDREB2C（dehydration- responsive element binding
+factor）通过结合AtNCED9启动子的DRE元件激活高温胁迫下种子的ABA合成</li>
+<li>AtWRKY57结合AtNCED3启动子，促进干旱诱导的ABA合成、提高植物的耐旱性</li>
+<li>NAC转录因子中的AtATAF1结合AtNCED3启动子，促进ABA合成</li>
+<li>AtNAP（NAC-like，activated by AP3/PI）结合At
+AAO3启动子，促进衰老叶片ABA合成与叶绿素降解</li>
+</ul></li>
+<li>花生
+<ul>
+<li>AhNAC2和AhAREB1蛋白复合体介导ABA合成的负反馈调节</li>
+<li>外源ABA促进AhNAC2和AhAREB1结合到AhNCED1启动子，进而抑制AhNCED1转录，其中AhArEB1是主要负调节因子</li>
+</ul></li>
+<li>水稻
+<ul>
+<li>OsNAC2通过上调OsZEP1和OsNCED3的表达且同时下调OsABA8ox1的表达来调控ABA的积累，促进水稻叶片衰老</li>
+</ul></li>
+<li>番茄
+<ul>
+<li>SlNAP2直接控制SlNCED1、SlABCG40和SlCYP707A2的表达来调节ABA水平</li>
+</ul></li>
+<li>玉米
+<ul>
+<li>ZmbZIP4调控NCED、ABA1和AAO3的表达来调节ABA的生物合成</li>
+</ul></li>
+<li>桃
+<ul>
+<li>成熟过程中，PpERF3正向调节PpNCED2/3的表达来促进ABA生物合成</li>
+</ul></li>
+<li>柑橘
+<ul>
+<li>CrMYB68直接抑制CrBCH2和CrNCED5的表达来负调控类胡萝卜素代谢和ABA积累</li>
+<li>CrNAC036直接结合CrNCED5的启动子并与CrMYB68相互作用协同抑制CrNCED5的表达，调节柑橘ABA的积累</li>
+</ul></li>
+</ul>
+<h3 id="类胡萝卜素途径-降解">类胡萝卜素途径-降解</h3>
+<ul>
+<li><p>分为酶促降解和非酶促降解两种形式</p></li>
+<li><p>非酶促降解主要与相应逆境胁迫应答有关</p></li>
+<li><p>酶促降解主要由类胡萝卜素双加氧酶CDs家族催化完成</p>
+<ul>
+<li>植物中CDs家族成员主要分为CCDs和NCEDs两大类</li>
+<li>CCDs类包括CCD1、CCD4、CCD7和CCD8
+<ul>
+<li>CCD1蛋白定位于细胞质，主要参与芳香类物质的形成</li>
+<li>CCD4蛋白定位于质体中，直接影响胡萝卜素积累，不同物种中存在明显的功能分化</li>
+<li>CCD7和CCD8蛋白定位于质体中，目前被报道主要是参与降解被异构化的beta-胡萝卜素</li>
+</ul></li>
+<li>NCEDs类包括NCED2、NCED3、NCED5、NCED6和NCED9，主要参与ABA的生物合成</li>
+</ul></li>
+<li><figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2011.42.44.png"
+alt="植物类胡萝卜素代谢途径" />
+<figcaption aria-hidden="true">植物类胡萝卜素代谢途径</figcaption>
+</figure></li>
+<li><p>类胡萝卜素代谢的转录调控</p>
+<ul>
+<li>PSY是整个代谢途径上的关键限速类，转录水平和蛋白水平的变化显著影响类胡萝卜素积累，造成果实和蔬菜等的色泽变异</li>
+<li>LCYB是位于类胡萝卜素代谢途径分支点的关键酶，其酶活性和转录差异控制着番茄红素的积累，影响果实红色的呈现</li>
+<li>CCD4是类胡萝卜素裂解酶，不同物种中存在细微功能差异，以不同种类的胡萝卜素作为裂解底物，直接影响类胡萝素的积累和果实着色</li>
+<li>CRTISO、BCH等也发挥重要作用</li>
+</ul></li>
+</ul>
+<h3
+id="aba调控果实成熟衰老非呼吸跃变型">ABA调控果实成熟衰老（非呼吸跃变型）</h3>
+<h4 id="报道的成果">报道的成果</h4>
+<ul>
+<li>葡萄果实成熟衰老过程中
+<ul>
+<li>VvNCED1基因的上调表达导致ABA含量增加，促进果实的成熟衰老（葡萄中克隆出12个NCED）</li>
+<li>外源ABA处理葡萄果实也能促进内援ABA积累，加快果实软化</li>
+<li>用ABA抑制剂处理葡萄果实能显著抑制ABA的生物合成</li>
+</ul></li>
+<li>ABA通过影响成熟衰老过程中大部分蛋白的水平来调控葡萄果实的成熟衰老-草莓
+<ul>
+<li>沉默限速基因FaNCED1的表达，导致草莓果实ABA含量降低以及延迟果实转色</li>
+<li>外源ABA处理沉默FaNCED1基因后的无色果实能恢复果实正常转色并加快果实衰老</li>
+</ul></li>
+</ul>
+<h4 id="转录因子的作用">转录因子的作用</h4>
+<h5 id="作用方式">作用方式</h5>
+<ul>
+<li>通过直接调节激素的生物合成和积累来间接促进果实的成熟衰老</li>
+<li>通过响应外界环境信号或激素的刺激直接调控成熟衰老相关基因的表达</li>
+<li>**非呼吸跃变型果实中主要通过调控ABA的生物合成或响应ABA的诱导来参与调控果实的成熟衰老</li>
+</ul>
+<h5 id="报道的成果-1">报道的成果</h5>
+<ul>
+<li>葡萄中超量表达VvABF2转录因子改变了葡萄细胞的ABA代谢调控网络，同时影响细胞壁的软化及酚类化合物的合成，最终影响果实的成熟衰老</li>
+<li>草莓中R2R3-MYB10响应ABA的诱导表达从而促进草莓色泽的积累及果实成熟</li>
+<li>ABA促进樱桃PacMYBA转录因子的转录调控果实色泽的积累及成熟</li>
+</ul>
+<h5
+id="被报道的调控aba生物合成的转录饮醉">被报道的调控ABA生物合成的转录饮醉</h5>
+<ul>
+<li>AtNAP、ORE1、ATAF1/2、OsNAC2、SlNAP2</li>
+<li>HD- ZIP Ⅰ家族</li>
+</ul>
+<h3 id="补充的一些">补充的一些</h3>
+<ul>
+<li>WRKY主要调控衰老，WRKY25/42/45/53/54/55/57/75通过正调控或负调控激素及活性氧的生物合成和积累来调控植物叶片衰老；也直接参与调控某些衰老相关基因（如SAG13、SAG29/SWEET15）的表达来发挥功能</li>
+<li>非呼吸跃变型果实：草莓、柑橘、葡萄、荔枝等</li>
+<li>在桃、番茄等呼吸跃变型果实中，ABA生合成高峰早于乙烯</li>
+<li>研究柑橘果实中ABA的生物合成不仅可建立起柑橘类胡萝卜素积累与ABA含量之间的关系，且可以加深对ABA调控果实发育的认识</li>
+<li>确定某基因：植物中原花青素积累的调控主要受XXX调节，转录组数据中与其具有高度相关性的转录因子为YYY，具有高度同源性，其他差异表达转录因子的同源基因未被报道直接参与调控植物原花青素的积累；YYY基因突变会导致……，因此选取YYY为关键候选基因</li>
+<li>缩略语表<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2013.58.27.png"
+alt="缩略语表1" /></li>
+</ul>
 <figure>
 <img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-20%2010.00.37.png"
-alt="植物转录因子分类" />
-<figcaption aria-hidden="true">植物转录因子分类</figcaption>
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-02-22%2013.59.38.png"
+alt="缩略语表2" />
+<figcaption aria-hidden="true">缩略语表2</figcaption>
 </figure>
-<p>bZIP类转录因子的结构域</p>
-<figure>
-<img
-src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-03-20%2010.01.50.png"
-alt="bZIP类转录因子结构域" />
-<figcaption aria-hidden="true">bZIP类转录因子结构域</figcaption>
-</figure>
+<ul>
+<li>AtNCED3是主要的抗旱胁迫基因，AtNCED5主要促进拟南芥种子休眠；SlNCED1可加速果实软化</li>
+</ul>
 ]]></content>
       <categories>
         <category>ABA有关代谢通路论文阅读</category>
       </categories>
       <tags>
         <tag>ABA 代谢 类胡萝卜素 - 示例</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>枇杷处理</title>
+    <url>/2022/02/11/e1dac0554fd4/</url>
+    <content><![CDATA[<p>NDGA/ABAI 去甲二氢化愈创木酸</p>
+<h3 id="树莓果实">树莓果实</h3>
+<p>果实浸泡</p>
+<p>蒸馏水、1 mM ABA、2 mM
+NDGA（先溶于少量DMSO中，之后缓慢加入适量的蒸馏水）水溶液浸果10
+min（之后有1-MCP处理，不知道会不会影响），蒸馏水对照，室温放置，处理 0
+d、0.5 d、1 d、1.5 d、2 d、2.5 d观察，测定果实硬度（ABA）</p>
+<figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-05-09%2009.21.09.png"
+alt="树莓ABA和NDGA处理" />
+<figcaption aria-hidden="true">树莓ABA和NDGA处理</figcaption>
+</figure>
+<h3 id="桃果实">桃果实</h3>
+<p>采回当天分成三组，每组150个果实，第一组用ABA处理（10
+umol/L），第二组用NDGA（50
+umol/L）预处理24h以阻断果实内ABA的生物合成，第三组清水对照处理</p>
+<p>所有处理果实全部放置在25度、相对湿度70%的室内贮藏</p>
+<h3 id="薄皮甜瓜">薄皮甜瓜</h3>
+<h4 id="cucumis-melo-var.-makuwa-makino"><em>Cucumis melo var.
+makuwa</em> Makino</h4>
+<p>脱落酸处理：50个甜瓜果实，用100 uL/L的ABA浸泡果实，真空浸透2
+h，自然晾干</p>
+<p>对照：50个甜瓜果实，不做处理</p>
+<p>将各组放置于人工气候箱，阴暗贮藏，温度保持23+-1度，湿度为85%</p>
+<p>每个处理3次重复，每次50个瓜，第0、3、6、9 d分别取果肉样品</p>
+<h4 id="cucumis-melo-l">Cucumis melo L</h4>
+<p>坐果后第20天的果实，等分5组，每组3次重复，每一重复随机挑3个甜瓜</p>
+<p>第一组：外源ABA（100 umol/L）注射</p>
+<p>第二组：NDGA（50 umol/L）注射</p>
+<p>第三组：蒸馏水处理</p>
+<p>处理后的果实置于16+-1度、相对湿度95%的环境下保存</p>
+<p>每隔2 d取一次样</p>
+<h3 id="巨峰葡萄">巨峰葡萄</h3>
+<figure>
+<img
+src="https://mypic416.oss-cn-hangzhou.aliyuncs.com/sjh_mac/截屏2022-05-09%2009.34.16.png"
+alt="巨峰葡萄ABA处理" />
+<figcaption aria-hidden="true">巨峰葡萄ABA处理</figcaption>
+</figure>
+<h3 id="番木瓜">番木瓜</h3>
+<p>注射</p>
+<p>果实内腔注射5 ml ABA（100 mg/L），NDGA（50 mg/L），对照为清水处理</p>
+<p>各处理再用相同溶液喷洒果面再处理一遍，处理完后将果实置于24度、湿度70%-80%的组培室内贮藏，每隔2
+d取样测定</p>
+<h3 id="草莓">草莓</h3>
+<p>大绿果再ABA溶液中浸泡1 min，对照果实浸入2%乙醇中</p>
+<p>浸渍后立即液氮采集对照样品，在3 h、24 h、3 d、7 d和10
+d后采集所有不同处理的样品</p>
+<p>ABA溶液制备：将ABA溶解在少量乙醇中，用去离子水稀释至50 uM和1
+mM（2%乙醇v/v总体积）的浓度</p>
+<h3 id="蓝莓">蓝莓</h3>
+<p>ABA处理组：2 mM ABA溶解于1%（v/v）无水乙醇中，再溶解于蒸馏水中</p>
+<p>对照组：1%（v/v）无水乙醇溶解于蒸馏水中</p>
+<p>NDGA处理组：70 uM NDGA溶解于1%（v/v）无水乙醇，再溶解于水中</p>
+<p>每组蓝莓在20+-0.5度、RH 80-85%下贮藏8 d，每隔1 d测定相关数据一次</p>
+<p>每次指标设置三次生物学与三次重复</p>
+]]></content>
+      <categories>
+        <category>基本</category>
+      </categories>
+      <tags>
+        <tag>示例</tag>
       </tags>
   </entry>
 </search>
